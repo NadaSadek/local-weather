@@ -1,0 +1,20 @@
+body{
+  margin-top:50px;
+  background-color:lavender;
+  font-family:  Impact, Charcoal, sans-serif;
+  color: #2E6090;
+  font-size: 20px;
+}
+.jumbotron{
+  border-style: solid;
+  text-align: center;
+}
+
+#location{
+  color: black;
+}
+#button{
+    border: 0 none;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
